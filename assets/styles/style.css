@@ -10,3 +10,16 @@
 .fashion__female {
     padding: 10px;
 }
+
+.fashion__female-h {
+    font-size: 40px;
+    text-shadow: 3px 3px ;
+}
+.fashion__female-p {
+    font-size: 25px;
+    color: chocolate;
+    padding-top: 10px;
+    margin: auto;
+    width: 50%;
+    line-height: 30px;
+}
